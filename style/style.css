@@ -35,7 +35,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #404040;
+    background-color: #000000;
     position: fixed;
     top: 0;
     left: 0;
@@ -59,7 +59,7 @@ li a {
 }
 
 li a:hover:not(.active) {
-    background-color: #804040;
+    background-color: #800000;
     height: 40px;
 }
 
