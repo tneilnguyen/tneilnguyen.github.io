@@ -24,6 +24,9 @@ body {
     font-family: U001, Helvetica, sans-serif;
     max-width: 720px;
 }
+a {
+    text-decoration : none;
+}
 .site-logo {
   float: left;
   width: 40px;
