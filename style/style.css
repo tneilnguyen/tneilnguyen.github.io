@@ -21,7 +21,7 @@
 body {
     color: #404040;
     background-color:#F0F0F0;
-    font-family: U001;
+    font-family: U001, Helvetica, sans-serif;
     max-width: 640px;
 }
 .site-logo {
