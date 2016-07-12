@@ -52,6 +52,6 @@ li a:hover:not(.active) {
 }
 
 .active {
-    background-color: #F00000;
+    background-color: #FF0000;
     font-weight: bold;
 }
