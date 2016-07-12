@@ -24,7 +24,10 @@ body {
     font-family: U001;
     max-width: 640px;
 }
-
+.site-logo {
+  float: left;
+  width: 44px;
+}
 ul {
     list-style-type: none;
     margin: 0;
