@@ -1,27 +1,6 @@
-@font-face {
-    font-family: U001;
-    src: url(fonts/U001TOT-Regu.otf);
-}
-@font-face {
-    font-family: U001;
-    src: url(fonts/U001TOT-ReguItal.otf);
-    font-style: italic;
-}
-@font-face {
-    font-family: U001;
-    src: url(fonts/U001TOT-Bold.otf);
-    font-weight: bold;
-}
-@font-face {
-    font-family: U001;
-    src: url(fonts/U001TOT-Bold.otf);
-    font-weight: bold;
-    font-style: italic;
-}
 body {
     color: #000000;
     background-color:#F0F0F0;
-    font-family: U001;
 }
 
 ul {
