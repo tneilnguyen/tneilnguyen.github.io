@@ -28,7 +28,10 @@ a {
     text-decoration: none;
     color: #FFFFFF;
 }
-
+.portrait {
+    float: left;
+    margin: 0 0 10px 10px;
+}
 .site-logo {
   float: left;
   width: 40px;
