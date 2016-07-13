@@ -29,9 +29,6 @@ a {
     color: #FFFFFF;
 }
 
-a:hover, a:active {
-    font-weight: bold;
-}
 .site-logo {
   float: left;
   width: 40px;
