@@ -20,6 +20,7 @@ a {
 .portrait {
     float: left;
     margin: 0 0 10px 10px;
+    image-rendering: pixelated;
 }
 .site-logo {
   float: left;
